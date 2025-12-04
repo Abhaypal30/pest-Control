@@ -1,0 +1,65 @@
+
+.RoleTable{
+    display: none;
+}
+.UserTable{
+    display: none;
+}
+
+.adminTable{
+    display: none;
+}
+.UserOneTable{
+    display: none;
+}
+
+.icon-css{
+    font-size: 20px;
+    color: #088f7d;
+}
+
+.logo-inner{
+    width: 56%;
+    height: 31%;
+    padding: 29px 0px;
+}
+.logo-inner2{
+    width: 77%;
+    height: 31%;
+    padding: 29px 0px;
+}
+
+.logo-size{
+    width: 49%;
+    height: 35%;
+}
+
+.add1{
+    display: none;
+}
+
+.edit1{
+    display: none;
+}
+
+.status22{
+    display: none;
+}
+.status3{
+    display: none;
+}
+
+.modal-div{
+    padding: 0px 20px 10px 20px ;
+}
+.dataTables_paginate .current ,
+  .paginate_button:hover {
+  color: white !important;
+  background-color:#405189!important;
+  border-bottom: 3px solid red;
+}
+
+/* new css*/
+
+
+  
